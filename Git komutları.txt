@@ -1,0 +1,3 @@
+git status CHECK YAPSIN
+git clone SSH key Githubdan çeksin
+git commit Commitle
